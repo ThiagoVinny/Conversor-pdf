@@ -50,10 +50,5 @@ Este projeto é licenciado sob a [MIT License](https://opensource.org/licenses/M
 
 ---
 
-### ✨ Demonstração
-
-Caso tenha interesse em ver como o projeto funciona, basta seguir as etapas acima ou hospedar os arquivos em uma plataforma de sua escolha, como [GitHub Pages](https://pages.github.com/) ou [Netlify](https://www.netlify.com/).
-
-💡 **Dica**: Adapte o design e funcionalidades para atender às suas necessidades específicas!
 
 
